@@ -7,4 +7,4 @@ def hello_world():
     return 'Hello, World2001!'
 
 if __name__ == '__main__':
-    app.run(debug=True)clear
+    app.run(debug=True)
